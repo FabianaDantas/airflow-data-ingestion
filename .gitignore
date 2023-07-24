@@ -1,0 +1,4 @@
+/db
+/logs
+/plugins
+/dags/dags_ingestion_dag/__pycache__
